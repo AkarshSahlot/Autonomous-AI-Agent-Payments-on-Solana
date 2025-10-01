@@ -1,0 +1,11 @@
+node_modules/
+dist/
+target/
+.anchor/
+.DS_Store
+*.log
+.env
+test-ledger/
+
+ArchitecturePlan
+/scripts
