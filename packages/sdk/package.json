@@ -1,0 +1,40 @@
+{
+  "name": "@x402/sdk",
+  "version": "1.0.0",
+  "description": "TypeScript SDK for x402-Flash autonomous payment streaming",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "clean": "rm -rf dist",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "solana",
+    "payments",
+    "streaming",
+    "autonomous-agents",
+    "web3"
+  ],
+  "author": "x402-Flash",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.32.1",
+    "@solana/spl-token": "^0.4.14",
+    "@solana/web3.js": "^1.98.4",
+    "bs58": "^6.0.0",
+    "eventemitter3": "^5.0.1",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.24",
+    "@types/ws": "^7.4.7",
+    "typescript": "^5.9.3"
+  }
+}
