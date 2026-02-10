@@ -12,7 +12,7 @@ A production-grade infrastructure for streaming micropayments with autonomous ag
 
 ## 📺 Demo
 
-**🎥 3-Minute Walkthrough**: [Watch Demo](https://youtu.be/AWXsZQ1aN30)
+**🎥 3-Minute Walkthrough**: [Watch Demo]([https://youtu.be/AWXsZQ1aN30](https://drive.google.com/file/d/186mg3mCo7qR71l_Z01HjaTTifUcxebW1/view?usp=sharing))
 
 **🔗 Live Deployment**:
 - **Vault Address**: [`Dwo3TQ8kD7HFV1XzVoLqBdngiZ1vJtrvGed1feBVBgJL`](https://explorer.solana.com/address/Dwo3TQ8kD7HFV1XzVoLqBdngiZ1vJtrvGed1feBVBgJL?cluster=devnet)
