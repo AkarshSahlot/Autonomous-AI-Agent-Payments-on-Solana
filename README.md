@@ -956,9 +956,9 @@ Built with ❤️ for the **Solana x402 Hackathon 2025**
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/Aditya-1304/x402-flash/issues)
-- **Twitter**: [@AdityaMandal_](https://twitter.com/AdityaMandal_)
-- **Email**: mandaladitya1614@gmail.com
+- **Issues**: [GitHub Issues]()
+- **Twitter**: [@AkarshSahlot_](https://x.com/AkarshSahlot)
+- **Email**: akarsh.sehlot@gmail.com
 
 ---
 
