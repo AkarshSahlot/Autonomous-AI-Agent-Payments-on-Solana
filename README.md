@@ -24,7 +24,7 @@ A production-grade infrastructure for streaming micropayments with autonomous ag
 ## 🚀 One-Line Quick Start
 
 ```bash
-git clone https://github.com/Aditya-1304/x402-flash && cd x402-flash && ./scripts/complete-setup-and-test.sh
+https://github.com/AkarshSahlot/Autonomous-AI-Agent-Payments-on-Solana.git
 ```
 
 Then open **http://localhost:3000** and start streaming! 🎉
